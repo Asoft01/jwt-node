@@ -1,0 +1,2 @@
+To generate the secret key, run node 
+and require('crypto').randomBytes(64).toString('hex')
